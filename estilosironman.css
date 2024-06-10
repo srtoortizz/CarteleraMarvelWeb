@@ -1,0 +1,229 @@
+*{
+	
+	margin:0;
+	padding:0;
+}
+
+
+body {
+ cursor: url('cursores/guanteironman.png'), auto;
+}
+
+#contenedor{
+		width:3800px;
+		height:5150px;
+		background: url('imagenes/papel.jpg');
+		margin:0.5em auto;
+		padding:0.5em;
+		border:1px solid black;
+}
+
+#header{
+border:1px solid black;
+width:1800px;
+height: 300px;
+background: url('cabeceras/cabeceraironman.png');
+border-radius:1em;
+margin: 1em auto;
+}
+
+
+#nav{
+	 
+	height:200px;
+	background-color:white;
+	border-radius:1em;
+	border:1px solid black;
+	margin:1em;
+}
+
+
+
+
+ 
+
+ul.lista >li {
+font-size:80px;
+float:left;
+display:inline;
+margin:50px 100px 20px 0;}
+
+	
+ul li{list-style:none;}
+	
+	li ul{
+		
+	background:#AED1FF;
+	padding:0 20px;
+	height:0;
+	overflow:hidden;
+	position:absolute;
+	}
+	
+	li:hover ul{
+	  width:10em;
+	  height:10em;
+	}
+
+
+	li ul li {
+	font-size:50px;
+	margin:10px auto;}
+	
+
+
+#contenedor2{
+	
+	height:2110px;
+	background-color:transparent;
+	margin:1em;
+}
+
+#footer{
+	
+	border-radius:1em;
+	margin-top:1500px;
+	height:955px;
+	width:3800px;
+	position:absolute;
+}
+	
+
+#section{
+	height:3600px;
+	width:2700px; 
+	 background:url('imagenes/sectionironman1.png'); 
+	border-radius:4em;
+	float:right;
+	margin: 0.5em;
+}
+
+
+
+.cuenta {
+	width:1000px;
+	height:150px;
+	font-size:60px;
+	margin-left:55px;
+	margin-top:190px;
+	background-color:#E8FFFF;
+	
+}
+
+
+
+.botonformulario {
+	width:2000px;
+	height:209px;
+	font-size:60px;
+	margin-left:55px;
+}
+ 
+
+
+
+#aside {
+	
+	
+	height:2000px;
+	width:1000px;
+	background: url('imagenes/reproducetrailerironman.png');*/
+	border-radius:1em;
+	float:left;
+	margin:0.5em;
+}
+
+
+#asidesipnosis {
+	
+	height:1500px;
+	width:1000px;
+	background: url('imagenes/reproducesipnosisironman.png');
+	border-radius:1em;
+	float:left;
+	margin-top:20px;
+}
+
+
+
+
+
+
+
+.logo{
+	width:180px;
+	height:180px;
+	margin-left:-600px;
+	margin-top:50px;
+
+	
+	
+}
+
+.lista {
+	margin-left:500px;
+	padding:0;
+
+}
+
+
+
+.suscripcion {
+	
+	margin-top:200px;
+	margin-left:50px;
+	font-size:120px;
+	text-align:center;
+	
+	
+}
+
+
+.contacto {
+	
+ 	font-size:90px;
+	text-align:center;
+	margin-top:70px;
+}
+
+
+
+
+
+.caratulaironman2008, .caratulaironman2, .caratulaironman3{
+	
+	
+	
+	height:800px;
+	width:500px;
+	margin-top:500px;
+	margin-left:300px;
+	border:10px solid white;
+	
+}
+
+
+.botonsipnosis {
+	
+	width:350px;
+	height:100px;
+	border:1px solid black;
+	margin-top:1500px;
+	margin-left:-390px;
+	position:absolute;
+	font-size:70px;
+	color:white;
+	background-color:red;
+	
+}
+
+
+audio {
+	
+	
+	margin-left:2300px;
+	margin-top:-200px;
+
+
+}
+

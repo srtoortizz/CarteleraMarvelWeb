@@ -1,0 +1,181 @@
+*{
+	
+	margin:0;
+	padding:0;
+}
+
+
+body {
+	cursor: url('cursores/martilloxml.png'), auto;
+ background: url('imagenes/espacioxml.jpg');
+}
+
+#contenedor{
+	width:3800px;
+    height:5210px;
+	background: url('imagenes/papel.jpg');
+	margin:0.5em auto;
+	padding:0.5em;
+	border:1px solid black;
+}
+
+#header{
+border:1px solid black;
+width:1800px;
+height: 300px;
+background: url('cabeceras/cabeceraxml.gif');
+border-radius:1em;
+margin: 1em auto;
+}
+
+
+#nav{
+	 
+	height:260px;
+	background: url('imagenes/nav.gif');
+	border-radius:1em;
+	border:1px solid black;
+	margin:1em;
+}
+
+
+
+
+
+
+ul.lista >li {
+font-size:80px;
+float:left;
+display:inline;
+margin:50px 100px 20px 0;}
+
+	
+ul li{list-style:none;}
+	
+	li ul{
+		
+	background:#AED1FF;
+	padding:0 20px;
+	height:0;
+	overflow:hidden;
+	position:absolute;
+	
+	}
+	
+	li:hover ul{
+	  width:10em;
+	  height:10em;
+	}
+
+	li ul li {
+	font-size:50px;
+	margin:10px auto;}
+	
+
+
+#contenedor2{
+	
+	height:3600px;
+	background:black;
+	margin:1em;
+}
+
+#footer{
+	
+  /*background: url('footer/footerindexoscuro.png');*/
+	border-radius:1em;
+	margin-top:20px;
+	height:955;
+	width:3800px;
+	position:absolute;
+}
+	
+
+#section{
+	height:3500px;
+	width:2700px; 
+	 background:url('imagenes/sectionxml.png'); 
+	float:right;
+	margin: 0.5em;
+}
+
+
+
+.cuenta {
+	width:1000px;
+	height:150px;
+	font-size:60px;
+	margin-left:55px;
+	margin-top:190px;
+	background-color:#E8FFFF;
+	
+}
+
+
+
+.botonformulario {
+	width:2000px;
+	height:209px;
+	font-size:60px;
+	margin-left:55px;
+}
+ 
+
+
+
+#aside {
+	
+	height:900px;
+	width:980px;
+	background: url('imagenes/gifmantenimiento.gif');
+	border:3px solid white;
+	float:left;
+	margin-left:50px;
+	margin-top:1000px;
+}
+
+
+
+
+
+
+.logo{
+	width:180px;
+	height:180px;
+	margin-left:-600px;
+	margin-top:50px;
+
+	
+	
+}
+
+.lista {
+	margin-left:500px;
+	padding:0;
+
+}
+
+
+
+.suscripcion {
+	
+	margin-top:200px;
+	margin-left:50px;
+	font-size:120px;
+	text-align:center;
+	
+	
+}
+
+
+.contacto {
+	
+ 	font-size:90px;
+	text-align:center;
+	margin-top:70px;
+}
+
+
+
+
+
